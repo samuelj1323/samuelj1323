@@ -1,4 +1,4 @@
-#Howdy, my name is Sam
+# Howdy, my name is Sam
 
 ### My Interests:
 + Mobile Application Development
