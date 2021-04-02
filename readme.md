@@ -1,6 +1,6 @@
-# Howdy, my name is Sam
+# Howdy, my name is Sam ☕️
 
-### My Interests:
+### My Interests:🛠
 + Mobile Application Development
 + Web Development
 + Game Development
