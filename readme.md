@@ -1,10 +1,10 @@
 # Howdy, my name is Sam ☕️
 
 ### My Interests:🛠
-+ Front-end
+
++ Web Development
 + Machine Learning
 + Mobile Application
-+ Web Development
 
 
 
