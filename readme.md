@@ -4,7 +4,8 @@
 
 + Web Development
   + React Typescript
-  + Express.js   
+  + Express.js
+  + SvelteKit
 + Machine Learning
 + Mobile Application
   + React native
