@@ -4,7 +4,7 @@
 
 + Web Development
   + React Typescript
-  + Express.js
+  + Hono
   + SvelteKit
 + Machine Learning
 + Mobile Application
