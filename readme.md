@@ -2,11 +2,11 @@
 
 ### My Interests:🛠
 
+I want to build the web better than I found it.
 + Web Development
+  + SvelteKit 
   + React Typescript
   + Hono
-  + SvelteKit
-+ Machine Learning
 + Mobile Application
   + React native
 
